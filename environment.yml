@@ -4,3 +4,11 @@ channels:
   - defaults
 dependencies:
   - python
+  - xarray
+  - intake
+  - intake-esm
+  - cftime
+  - matplotlib
+  - cartopy
+  - gcsfs
+  - nc-time-axis
