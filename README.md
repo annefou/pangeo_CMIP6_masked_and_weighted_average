@@ -21,7 +21,7 @@ The badges below should be adapted according to the new notebook.
     <a href="https://github.com/Environmental-DS-Book/template-executable-notebook/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://mybinder.org/v2/gh/Environmental-DS-Book/template-executable-notebook/main?labpath=template-executable-notebook.ipynb">
+    <a href="https://mybinder.org/v2/gh/NordicESMHub/pangeo_CMIP6_masked_and_weighted_average/main?labpath=masked_and_weighted_average.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/Environmental-DS-Book/template-executable-notebook/actions/workflows/publish.yml/badge.svg">
