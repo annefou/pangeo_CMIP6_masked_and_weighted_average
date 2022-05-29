@@ -31,7 +31,7 @@ The badges below should be adapted according to the new notebook.
 </p>
 
 <p align="center"> 
-    <a href="https://w3id.org/ro-id/c3aa751b-c32d-48d2-b781-0ab44bedc252">
+    <a href="https://w3id.org/ro-id/03dc6999-4799-4739-b184-0a9d11c50aa4">
         <img alt="RoHub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
 </p>
